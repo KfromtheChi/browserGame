@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 5vmin;
+    border: 5px solid purple;
+    padding: 1.5vmin;
+}
+
+.TIMER {
+    background-color: purple;
+    font-size: 3vmin;
+    padding: 1vmin;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#game {
+    margin: 5vmin;
+    width: 60vw;
+    height: 55vw;
+    cursor: pointer;
+    background-color: black;
+    border: 5px solid purple;
+    display: grid;
+    grid-template-columns: repeat(5, 18vh);
+    grid-template-rows: repeat(4, 18vh);
+    align-content: space-evenly;
+}
+
+#game > div {
+    background-size: contain;
+    margin: 4vmin;
+}
+
+.card {
+    width: 10vh;
+    height: 14vh;
+    background-color: yellow;
+    border: 5px solid cyan;
+    border-radius: 5%;
+    margin: 2vmin;
+    align-self: center;
+}
+
+button {
+    cursor: pointer;
+    margin: 2vmin;
+    padding: 1.5vmin;
+    background-color: cyan;
+    color: black;
+    border: 5px solid purple;
+    font-size: 3vmin;
+    box-shadow: 1px 1px 1px 1px;
+}
