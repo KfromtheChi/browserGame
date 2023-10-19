@@ -1,65 +1,91 @@
 * {
-    box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: lightseagreen;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  align-items: center;
+  justify-content: center;
 }
 
 h1 {
-    font-size: 5vmin;
-    border: 5px solid purple;
-    padding: 1.5vmin;
+  font-size: 5vmin;
+  border: 5px solid purple;
+  padding: 1.5vmin;
 }
 
-.TIMER {
-    background-color: purple;
-    font-size: 3vmin;
-    padding: 1vmin;
+.timer {
+  background-color: purple;
+  font-size: 3vmin;
+  padding: 1vmin;
+  box-shadow: 2px 2px 2px;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color: darkturquoise;
 }
 
 #game {
-    margin: 5vmin;
-    width: 60vw;
-    height: 55vw;
-    cursor: pointer;
-    background-color: black;
-    border: 5px solid purple;
-    display: grid;
-    grid-template-columns: repeat(5, 18vh);
-    grid-template-rows: repeat(4, 18vh);
-    align-content: space-evenly;
+  margin: 5vmin;
+  width: 60vw;
+  height: 55vw;
+  cursor: pointer;
+  background-color: black;
+  border: 7px solid purple;
+  display: grid;
+  grid-template-columns: repeat(5, 18vh);
+  grid-template-rows: repeat(4, 18vh);
+  align-content: space-evenly;
 }
 
 #game > div {
-    background-size: contain;
-    margin: 4vmin;
+  background-size: contain;
+  margin: 4vmin;
 }
 
 .card {
-    width: 10vh;
-    height: 14vh;
-    background-color: yellow;
-    border: 5px solid cyan;
-    border-radius: 5%;
-    margin: 2vmin;
-    align-self: center;
+  width: 10vh;
+  height: 14vh;
+  background-color: yellow;
+  border: 5px solid cyan;
+  border-radius: 5%;
+  margin: 1vmin;
+  align-self: center;
+  display: flex;
+}
+
+.frontcard {
+  display: none;
+  background-color: cyan;
+  width: 8vh;
+  height: 12vh;
+}
+
+.clicked > .frontcard {
+  display: flex;
 }
 
 button {
-    cursor: pointer;
-    margin: 2vmin;
-    padding: 1.5vmin;
-    background-color: cyan;
-    color: black;
-    border: 5px solid purple;
-    font-size: 3vmin;
-    box-shadow: 1px 1px 1px 1px;
+  cursor: pointer;
+  margin: 2vmin;
+  padding: 1.5vmin;
+  background-color: purple;
+  color: black;
+  border: 5px;
+  font-size: 3vmin;
+  box-shadow: 4px 4px 4px;
+}
+
+#message {
+  display: flex;
+  display: none;
+  width: 38vh;
+  height: 10vh;
+  border: 8px solid yellow;
+  font-size: 3vmin;
+  background-color: purple;
+  text-align: center;
+  color: yellow;
+  position: absolute;
+  align-items: center;
 }
