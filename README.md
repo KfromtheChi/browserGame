@@ -45,7 +45,7 @@ I am pretty happy with where my game is now in all honesty - however - it would 
 
 **['Emptying' of cards after 2nd card selection](https://stackoverflow.com/questions/73160346/how-to-reset-the-memory-card-gameurl)**
 
-**[Play Button and Timer Reset when game is restarted]**(https://stackoverflow.com/questions/52631804/how-can-one-reset-one-variable-in-javascript-and-playing-an-alert-after-a-specifurl)**
+**[Play Button and Timer Reset when game is restarted](https://stackoverflow.com/questions/52631804/how-can-one-reset-one-variable-in-javascript-and-playing-an-alert-after-a-specifurl)**
 
 **Everything Else:**
 * *Class Tic Tac Toe and Connect 4 game code alongs* *
