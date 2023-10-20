@@ -1,8 +1,8 @@
 # Project 1: 'Can YOU Emoji?' Browser Game
 
-## October 18, 2023
+## By Krystalin Castillo
 
-### By Krystalin Castillo
+### October 18, 2023
 
 [GitHub](https://github.com/KfromtheChi)
 
