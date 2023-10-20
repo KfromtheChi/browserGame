@@ -19,4 +19,4 @@ Simple yes?  However...I did add a second challenge factor to the game in additi
 ![Smile1](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile1.png)                           ![Smile2](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile2.png)                           ![Smile3](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile3.png)                           ![Smile4](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile4.png)
 
 
-![Screen Recording 2023-10-20 at 4 37 50 AM](https://github.com/KfromtheChi/browserGame/assets/145854969/891156be-8a7f-4b3b-aee5-5ba32e228bc2)
+
