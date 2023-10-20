@@ -16,7 +16,7 @@ The game features a PLAY button that will start and restart the game, a 1 minute
 
 Simple yes?  However...I did add a second challenge factor to the game in addition to the 1 minute timer: four of the eight smiling Emoji's out there have been included in the game.  The challenge in matching the smiling Emoji's is presented by the fact that all four images are similar to eachother - they are not exactly alike - but each one is similar with one or two features that differ from the others.  Game changer!  In having tested this game out myself...many times...I will say this caviat does present quite the challenge making it quite fun and competitive.  Feel free to have a Go at it yourslef!
 
-![Smile1](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile1.png) ![Cool](https://github.com/KfromtheChi/browserGame/blob/main/assets/cool.png) ![Laugh] ![Smile2](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile2.png) ![Smile3](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile3.png) ![Smile4](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile4.png)
+![Smile1](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile1.png) ![Cool](https://github.com/KfromtheChi/browserGame/blob/main/assets/cool.png) ![Laugh](https://github.com/KfromtheChi/browserGame/blob/main/assets/laugh.png) ![Smile2](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile2.png) ![Smile3](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile3.png) ![Smile4](https://github.com/KfromtheChi/browserGame/blob/main/assets/smile4.png)
 
 
 ![gameinaction](https://github.com/KfromtheChi/browserGame/assets/145854969/ed37a05f-5636-4a55-b590-8164a47dbbb2)
