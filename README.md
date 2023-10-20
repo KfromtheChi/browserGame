@@ -11,6 +11,14 @@
 'Can YOU Emoji?' is a web browser game that mimicks the traditional game of Memory but on the web (and coded completely in JavaScript)!  The idea behind it was to use a handful of Emoji character images, coupled with a bright and complimenting color scheme, as the focus.  The goal was to take this basic game and have the focus not only be familiar to most if not all players of the game, but to create a fun and engaging vibe for the player as they try to tackle the object of the game.  I am super stoked about what I put togethere here, and I do feel that my focus is pretty unique to a simple and well-known concept.  On a personal note, my nephew loves loves loves Emoji's, and is going to flip out when he finds out what his super-cool aunt created! 
 
 Though the game of Memory is considered a fairly easy game to put together from a developer standpoint - as my first EVER coding project: this game was anything BUT for me.  Fortunately, HTML and CSS came pretty easy to me, so I had the layout and design wrapped in a couple of hours.  BUT...I am not a gamer in any way.  That's right.  Any web/internet/animation based game is just NOT my thing.  And, this game wasn't even my original game idea...To Be Continued...which also added to the challenge for me.  In short: I had to really work at the JavaScript for this project.  Kudos to all the game developers out there, I highly respect what you do!
+### Coding Challenges
+As I mentioned earlier, this whole thing was a huge challenge for me, the following in particular, were rough:
+1. Getting the cards to flip back around if images do not match - fixed with changing the function and setting a timer for the cards to display image side.
+2. Getting a second card to flip and display an image when clicked and remain face up - timer on the click.
+3. Getting the console to identify the card image and index of each card when clicked - removed ‘id’ for each card div to just a class div, appending Emoji images to each card as the identifier.
+4. Count-down timer - set interval function and start timer function.
+5. Getting the two cards that do not match to reflect 'emptied' or reset with every new attempt in the console - added event listener and boolean.
+6. Getting all card click attempts to reflect 2 cards clicked in each try vs. grouping all cards clicked together in the console - updated HTML, utilized classList.
 
 
 ## Technologies Used:
