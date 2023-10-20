@@ -28,3 +28,11 @@ Simple yes?  However...I did add a second challenge factor to the game in additi
 
 ## Play the Game
 [Can YOU Emoji?](http://127.0.0.1:5500/)
+
+## Future Updates
+- [ ] Add a point system
+- [ ] Add a score board where players can enter their names to keep tally of the highest scoring player
+- [ ] Add challenge for players who finish before timer is up: 10 additional cards drop, if matched before remaining time is up: bonus points!
+- [ ] Add challenge round for players who match 10 pairs in 1min: challenge round, add 20 emojis, 1min timer, bonus points!
+- [ ] Add cascading Poop Emoji's down screen when player loses
+- [ ] Add combination Emoji's cascading down screen when player wins
