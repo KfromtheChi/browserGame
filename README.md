@@ -30,6 +30,7 @@ Simple yes?  However...I did add a second challenge factor to the game in additi
 [Can YOU Emoji?](http://127.0.0.1:5500/)
 
 ## Future Updates
+I am pretty happy with where my game is now in all honesty - however - it would be pretty cool to add the following:
 - [ ] Add a point system
 - [ ] Add a score board where players can enter their names to keep tally of the highest scoring player
 - [ ] Add challenge for players who finish before timer is up: 10 additional cards drop, if matched before remaining time is up: bonus points!
