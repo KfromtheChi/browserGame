@@ -53,6 +53,8 @@ I am pretty happy with where my game is now in all honesty - however - it would 
 
 **[Play Button and Timer Reset when game is restarted](https://stackoverflow.com/questions/52631804/how-can-one-reset-one-variable-in-javascript-and-playing-an-alert-after-a-specifurl)**
 
+**[How to Get Emoji Image on Game Card](https://stackoverflow.com/questions/6703350/how-to-appendchild-to-an-array-of-images-with-specific-height-and-width)**
+
 **[Creating an Animated Game GIF](https://github.com/matiassingers/awesome-readme)**
 **[Embedding Game GIF in README](https://www.youtube.com/watch?v=3RlpVrYt_qE)**
 
