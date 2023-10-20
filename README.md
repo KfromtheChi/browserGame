@@ -11,6 +11,11 @@
 
 Though the game of Memory is considered a fairly easy game to put together from a developer standpoint - as my first ever coding project: this game was anything BUT for me.  I am not a gamer in any way.  That's right.  Any web/internet/animation based game is just NOT my thing.  And, this game wasn't even my original game idea...To Be Continued...which also added to the challenge for me.  In short: I had to really work at the JavaScript for this project...and I now have a deep respect for all the game developers out there.
 
+## Technologies Used:
+1. HTML
+2. CSS
+3. JavaScript
+
 ## Object of the Game
 The game features a PLAY button that will start and restart the game, a 1 minute timer that counts down, and 20 face-down cards that will 'flip up' to display the Emoji image when clicked.  10 Emoji images x 2 = 20 cards, 10 pairs.  The player can click two cards for each try.  If the two cards do not match, both cards will 'flip back', hiding the Emoji image until the player clicks the next two cards.  If the two cards selected are a match, they will remain facing up to display the matching Emoji's. In order to win the game, the player has to match 10 Emoji pairs before the 1 minute game timer is up.  If the player can match all 10 pairs in 1 minute, they win the game.  If the player fails to match all 10 pairs in 1 minute, they lose the game.
 
@@ -21,3 +26,5 @@ Simple yes?  However...I did add a second challenge factor to the game in additi
 
 ![gameinaction](https://github.com/KfromtheChi/browserGame/assets/145854969/ed37a05f-5636-4a55-b590-8164a47dbbb2)
 
+## Play the Game
+[Can YOU Emoji?](http://127.0.0.1:5500/)
