@@ -39,17 +39,13 @@ I am pretty happy with where my game is now in all honesty - however - it would 
 - [ ] Combination Emoji's cascading down screen when player wins
 
 ## Credits:
-**[Count-down Timer]**
-* *(https://www.w3schools.com/howto/howto_js_countdown.aspurl)* *
+**[Count-down Timer](https://www.w3schools.com/howto/howto_js_countdown.aspurl)**
 
-**[Shuffling Cards Feature]**
-* *(https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/url)* *
+**[Shuffling Cards Feature](https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/url)**
 
-**['Emptying' of cards after 2nd card selection]**
-* *(https://stackoverflow.com/questions/73160346/how-to-reset-the-memory-card-gameurl)* *
+**['Emptying' of cards after 2nd card selection](https://stackoverflow.com/questions/73160346/how-to-reset-the-memory-card-gameurl)**
 
-**[Play Button and Timer Reset when game is restarted]**
-* *(https://stackoverflow.com/questions/52631804/how-can-one-reset-one-variable-in-javascript-and-playing-an-alert-after-a-specifurl)* *
+**[Play Button and Timer Reset when game is restarted]**(https://stackoverflow.com/questions/52631804/how-can-one-reset-one-variable-in-javascript-and-playing-an-alert-after-a-specifurl)**
 
-**[Everything Else]**
-* *(Class Tic Tac Toe and Connect 4 game code alongs)* *
+**Everything Else:**
+* *Class Tic Tac Toe and Connect 4 game code alongs* *
