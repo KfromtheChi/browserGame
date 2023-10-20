@@ -47,5 +47,4 @@ I am pretty happy with where my game is now in all honesty - however - it would 
 
 **[Play Button and Timer Reset when game is restarted](https://stackoverflow.com/questions/52631804/how-can-one-reset-one-variable-in-javascript-and-playing-an-alert-after-a-specifurl)**
 
-**Everything Else:**
-* *Class Tic Tac Toe and Connect 4 game code alongs* *
+**Everything Else:** * *Class Tic Tac Toe and Connect 4 game code alongs* *
