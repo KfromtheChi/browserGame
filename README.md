@@ -31,9 +31,9 @@ Simple yes?  However...I did add a second challenge factor to the game in additi
 
 ## Future Updates
 I am pretty happy with where my game is now in all honesty - however - it would be pretty cool to add the following:
-- [ ] Add a point system
-- [ ] Add a score board where players can enter their names to keep tally of the highest scoring player
-- [ ] Add challenge for players who finish before timer is up: 10 additional cards drop, if matched before remaining time is up: bonus points!
-- [ ] Add challenge round for players who match 10 pairs in 1min: challenge round, add 20 emojis, 1min timer, bonus points!
-- [ ] Add cascading Poop Emoji's down screen when player loses
-- [ ] Add combination Emoji's cascading down screen when player wins
+- [ ] A point system
+- [ ] A score board where players can enter their names to keep tally of the highest scoring player
+- [ ] A challenge for players who finish before timer is up: 10 additional cards drop, if matched before remaining time is up: bonus points!
+- [ ] A challenge round for players who match 10 pairs in 1min: challenge round, add 20 emojis, 1min timer, bonus points!
+- [ ] Cascading Poop Emoji's down screen when player loses
+- [ ] Combination Emoji's cascading down screen when player wins
