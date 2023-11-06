@@ -1,4 +1,4 @@
-# Project 1: 'Can YOU Emoji?' Browser Game
+# Project 1: 'Can YOU Emoji?'
 
 ## By Krystalin Castillo
 
